@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="Project-03b-EC2-Hardening" src="https://github.com/user-attachments/assets/915d9955-d0e2-4a03-8139-7f590c2746e9" />
+
 # Project 3b: Production-Level EC2 Security Hardening
 
 ## Overview
